@@ -1,0 +1,36 @@
+#start-btn
+{
+    width: 40%;
+} 
+#camera
+{
+    width:360px;
+    height: 250px;
+    border:1px solid grey;
+}
+#logo_img
+{
+    width: 150px;
+    border-radius: 100px;
+}
+img{
+    width: 30%;
+}
+
+.footer{
+    position: fixed;
+}
+
+img:hover{
+    width: 40%;
+}
+
+#showresult{
+    display: inline;
+    padding: 25px;
+}
+
+#result1,#result2,#result3{
+    display: inline;
+    padding: 25px;
+}
